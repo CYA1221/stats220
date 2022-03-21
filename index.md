@@ -10,7 +10,7 @@ The new thing in the meme is:
 2. ELDEN RING is the continuation of the DARK SOULS
 3. It's really fun and i just played it  XD
 
-#the code is here
+#the code is below
 
 drake_1 <- image_read("https://pyxis.nymag.com/v1/imgs/62c/fa8/6e52acce958795508a7ecbf6a3656c0190-11-drake-hotline-bling.rsquare.w700.jpg") %>%
   image_scale(500)
