@@ -1,2 +1,2 @@
 # stats220
-[test website!](https://CYA12221.github.io/stats220/)
+[test website!](https://cya1221.github.io/stats220/)
