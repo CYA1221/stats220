@@ -12,7 +12,7 @@ The new thing in the meme is:
 
 #the code is below
 
-drake_1 <- image_read("https://pyxis.nymag.com/v1/imgs/62c/fa8/6e52acce958795508a7ecbf6a3656c0190-11-drake-hotline-bling.rsquare.w700.jpg") %>%
+‘drake_1 <- image_read("https://pyxis.nymag.com/v1/imgs/62c/fa8/6e52acce958795508a7ecbf6a3656c0190-11-drake-hotline-bling.rsquare.w700.jpg") %>%
   image_scale(500)
 
 dark_souls_text <- image_blank(width = 500, 
@@ -46,4 +46,4 @@ meme <- c(top_row, bot_row) %>%
   image_append(stack = TRUE) %>%
   image_scale(800)
   
-image_write(meme, "my_meme.png")
+image_write(meme, "my_meme.png")’
